@@ -1,0 +1,19 @@
+Create a New Subsystem Not Working in FRC 2020 
+Doug_Norman
+Member Doug_NormanMEMBER
+‎01-07-2020 09:55 AM
+
+Here is the fix. Extract the attached resource.zip file into your LabVIEW 2019 folder. 
+You can either extract it directly, or copy it first and then extract it. If you copy it first, 
+you may want to delete the zip file when finished.
+
+ 
+
+When you extract you should get a dialog telling you the destination already has a file named 
+"Rename Templates.vi". Choose Replace the file in the destination.
+
+ 
+
+The result is you should end up with this file replaced:
+
+\LabVIEW 2019\resource\Framework\Providers\FRCSubsystem\Rename Templates.vi
